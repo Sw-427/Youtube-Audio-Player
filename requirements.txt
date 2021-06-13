@@ -1,0 +1,8 @@
+pip install google-api-python-client
+pip install youtube_dl
+
+need to install ffmpeg.exe file and the dll files that come along with it
+using this link:https://ottverse.com/ffmpeg-builds/
+then download ffmpeg-20210324-dfad5794fb static version.
+extract the ffmpeg.exe file in the bin and paste it where yout youtube-dl.exe file is.
+(this helps convert the downloaded webm files using youtube-dl to mp3 files)
